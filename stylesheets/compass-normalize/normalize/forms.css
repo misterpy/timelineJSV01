@@ -1,0 +1,88 @@
+/* line 7, C:/Ruby193/lib/ruby/gems/1.9.1/gems/compass-normalize-1.1.2/lib/../stylesheets/normalize/forms.scss */
+form {
+  margin: 0;
+}
+
+/* line 13, C:/Ruby193/lib/ruby/gems/1.9.1/gems/compass-normalize-1.1.2/lib/../stylesheets/normalize/forms.scss */
+fieldset {
+  border: 1px solid #c0c0c0;
+  margin: 0 2px;
+  padding: 0.35em 0.625em 0.75em;
+}
+
+/* line 23, C:/Ruby193/lib/ruby/gems/1.9.1/gems/compass-normalize-1.1.2/lib/../stylesheets/normalize/forms.scss */
+legend {
+  border: 0;
+  padding: 0;
+  white-space: normal;
+  *margin-left: -7px;
+}
+
+/* line 34, C:/Ruby193/lib/ruby/gems/1.9.1/gems/compass-normalize-1.1.2/lib/../stylesheets/normalize/forms.scss */
+button,
+input,
+select,
+textarea {
+  font-size: 100%;
+  margin: 0;
+  vertical-align: baseline;
+  *vertical-align: middle;
+}
+
+/* line 46, C:/Ruby193/lib/ruby/gems/1.9.1/gems/compass-normalize-1.1.2/lib/../stylesheets/normalize/forms.scss */
+button,
+input {
+  line-height: normal;
+}
+
+/* line 59, C:/Ruby193/lib/ruby/gems/1.9.1/gems/compass-normalize-1.1.2/lib/../stylesheets/normalize/forms.scss */
+button,
+html input[type="button"],
+input[type="reset"],
+input[type="submit"] {
+  -webkit-appearance: button;
+  cursor: pointer;
+  *overflow: visible;
+}
+
+/* line 70, C:/Ruby193/lib/ruby/gems/1.9.1/gems/compass-normalize-1.1.2/lib/../stylesheets/normalize/forms.scss */
+button[disabled],
+input[disabled] {
+  cursor: default;
+}
+
+/* line 80, C:/Ruby193/lib/ruby/gems/1.9.1/gems/compass-normalize-1.1.2/lib/../stylesheets/normalize/forms.scss */
+input[type="checkbox"],
+input[type="radio"] {
+  box-sizing: border-box;
+  padding: 0;
+  *height: 13px;
+  *width: 13px;
+}
+
+/* line 91, C:/Ruby193/lib/ruby/gems/1.9.1/gems/compass-normalize-1.1.2/lib/../stylesheets/normalize/forms.scss */
+input[type="search"] {
+  -webkit-appearance: textfield;
+  -moz-box-sizing: content-box;
+  -webkit-box-sizing: content-box;
+  box-sizing: content-box;
+}
+
+/* line 100, C:/Ruby193/lib/ruby/gems/1.9.1/gems/compass-normalize-1.1.2/lib/../stylesheets/normalize/forms.scss */
+input[type="search"]::-webkit-search-decoration,
+input[type="search"]::-webkit-search-cancel-button {
+  -webkit-appearance: none;
+}
+
+/* line 107, C:/Ruby193/lib/ruby/gems/1.9.1/gems/compass-normalize-1.1.2/lib/../stylesheets/normalize/forms.scss */
+button::-moz-focus-inner,
+input::-moz-focus-inner {
+  border: 0;
+  padding: 0;
+}
+
+/* line 116, C:/Ruby193/lib/ruby/gems/1.9.1/gems/compass-normalize-1.1.2/lib/../stylesheets/normalize/forms.scss */
+textarea {
+  overflow: auto;
+  vertical-align: top;
+}

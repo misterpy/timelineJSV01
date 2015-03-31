@@ -1,0 +1,39 @@
+/* line 8, C:/Ruby193/lib/ruby/gems/1.9.1/gems/compass-normalize-1.1.2/lib/../stylesheets/normalize/html5.scss */
+article,
+aside,
+details,
+figcaption,
+figure,
+footer,
+header,
+hgroup,
+nav,
+section,
+summary {
+  display: block;
+}
+
+/* line 24, C:/Ruby193/lib/ruby/gems/1.9.1/gems/compass-normalize-1.1.2/lib/../stylesheets/normalize/html5.scss */
+audio,
+canvas,
+video {
+  display: inline-block;
+  *display: inline;
+  *zoom: 1;
+}
+
+/* line 35, C:/Ruby193/lib/ruby/gems/1.9.1/gems/compass-normalize-1.1.2/lib/../stylesheets/normalize/html5.scss */
+audio:not([controls]) {
+  display: none;
+  height: 0;
+}
+
+/* line 43, C:/Ruby193/lib/ruby/gems/1.9.1/gems/compass-normalize-1.1.2/lib/../stylesheets/normalize/html5.scss */
+[hidden] {
+  display: none;
+}
+
+/* line 53, C:/Ruby193/lib/ruby/gems/1.9.1/gems/compass-normalize-1.1.2/lib/../stylesheets/normalize/html5.scss */
+figure {
+  margin: 0;
+}

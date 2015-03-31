@@ -1,0 +1,9 @@
+---
+applications:
+- name: timelinejsv01
+  memory: 10M
+  instances: 1
+  host: timelinev01
+  domain: sdp.asideas.de
+
+
